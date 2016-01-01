@@ -6,6 +6,8 @@
 
 * easily schedule these emails, and easily let users unsubscribe with 2 clicks from the email (no authentication).
 
+* utilizes Test::Unit for coverage
+
 #Future plans:
 
 * email template system from the admin panel instead of having templates be stored in codebase
