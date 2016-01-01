@@ -1,5 +1,7 @@
 #quick_target gem summary
 
+* https://rubygems.org/gems/quick_target
+
 * lets a ruby developer use SQL queries from an admin panel to target a set of users and send an email to all of those users
 
 * easily schedule these emails, and easily let users unsubscribe with 2 clicks from the email (no authentication).
