@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'quick_target'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.executables << 'test'
   s.date        = '2016-01-16'
   s.summary     = "Send/Schedule emails to any set of users with a sql query"
