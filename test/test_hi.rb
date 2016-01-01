@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'quick_test'
+require 'quick_target'
 
 class TryATest < Minitest::Test
   def test_english_hello
