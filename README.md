@@ -4,9 +4,11 @@
 
 * lets a ruby developer use SQL queries from an admin panel to target a set of users and send an email to all of those users
 
-* easily schedule these emails, and easily let users unsubscribe with 2 clicks from the email (no authentication).
+* easily schedule these emails
 
-* utilizes Test::Unit for coverage
+* easily let users unsubscribe or change email preferences with 2 clicks from the email (no authentication).
+
+* utilizes MiniTest for coverage
 
 #Future plans:
 
