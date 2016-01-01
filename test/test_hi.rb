@@ -4,16 +4,16 @@ require 'quick_target'
 class TryATest < Minitest::Test
   def test_english_hello
     assert_equal "hello world",
-      QuickTest.hi("english")
+      QuickTarget.hi("english")
   end
 
   def test_any_hello
     assert_equal "hello world",
-      QuickTest.hi("ruby")
+      QuickTarget.hi("ruby")
   end
 
   def test_spanish_hello
     assert_equal "hola mundo",
-      QuickTest.hi("spanish")
+      QuickTarget.hi("spanish")
   end
 end
