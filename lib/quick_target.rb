@@ -5,17 +5,5 @@ class QuickTarget
   end
 end
 
-class QuickTarget::Translator
-  def initialize(language)
-    @language = language
-  end
-
-  def hi
-    case @language
-    when "spanish"
-      "hola mundo"
-    else
-      "hello world"
-    end
-  end
-end
+# load the quick_target/translator.rb file
+require 'quick_target/translator'
