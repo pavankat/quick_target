@@ -2,17 +2,21 @@
 
 * https://rubygems.org/gems/quick_target
 
-* easily use SQL queries from an admin panel to target an email at a set of users
+EASILY
 
-* easily use templates for your emails
+* use SQL queries from an admin panel to target an email at a set of users
 
-* easily import images to use from Amazon s3
+* use templates for your emails
 
-* easily schedule these email campaigns and cancel upcoming ones
+* import images to use from Amazon s3 into your emails
 
-* easily let users unsubscribe or change email preferences with 2 clicks from the email (no authentication).
+* schedule these email campaigns and cancel upcoming ones
 
-* notification system that doubles notifications for email notifications and in site notifications
+* let users unsubscribe or change email preferences with 2 clicks from the email (no authentication).
+
+* includes a notification system that doubles the records for email notifications and in site notifications
+
+* rake tasks to handle all of it
 
 * utilizes MiniTest for coverage
 
